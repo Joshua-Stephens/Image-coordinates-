@@ -1,0 +1,59 @@
+body
+{
+max-width: 980px;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: powderblue;
+margin-left: auto;
+margin-right: auto;
+}
+
+.oddRow
+{
+    background-color: grey;
+    
+}
+
+.evenRow
+{
+    background-color: lightgrey;
+    
+}
+
+.title
+{
+    background-color: limegreen;
+}
+
+.text
+{
+    text-align: left;
+}
+
+h3, h4
+{
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#homepage
+{
+    vertical-align: middle;
+    text-align: right;
+}
+
+td
+{
+    vertical-align: top;
+}
+
+#price
+{
+    text-align: center;
+    transform: translateX(400px);
+}
+
+ul
+{
+    list-style-image: url(aball.gif);
+}
